@@ -32,3 +32,12 @@ the way we do?
     Once we have merged two branches, we are able to access a commit of both branches.
     We represent it in the diagram the way we do. Because if we separatedly treat branches,
     it helps us to understand commit history.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Pros of automatic merging: It reduces human error when marging branches.
+    Cons of automatic merging: If there is a conflict, it is not able to resolve the
+    conflict.
+    Pros of always doing merges manually: This solution can always resolve conflict.
+    Cons of always doing merges manually: This solution is very tough, this may lead to
+    human error.
