@@ -35,3 +35,7 @@ How might using version control make you more confident to make changes that
 could break something?
 
     I use version control when collaborating code with someone else.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git for developing Android app project.
