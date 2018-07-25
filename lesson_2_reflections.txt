@@ -25,3 +25,10 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 
     The diagram explains which branch contains which commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram
+the way we do?
+
+    Once we have merged two branches, we are able to access a commit of both branches.
+    We represent it in the diagram the way we do. Because if we separatedly treat branches,
+    it helps us to understand commit history.
