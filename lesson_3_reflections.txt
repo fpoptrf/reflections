@@ -3,3 +3,10 @@ local?
 
     I want to use a remote repository, when I have finished work. Because I want to keep
     the code safty. My local environment may broken in future.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    Manual pull send us cold copy of the repository. This is good for making some changes
+    to the code. If someone updates remote repository, automatic pull will lead to
+    conflict to the code we have edited. We don't want that situation.
