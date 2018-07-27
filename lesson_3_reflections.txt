@@ -10,3 +10,13 @@ automatically stay up-to-date with your remote repository?
     Manual pull send us cold copy of the repository. This is good for making some changes
     to the code. If someone updates remote repository, automatic pull will lead to
     conflict to the code we have edited. We don't want that situation.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    Forks copy repository in GitHub website without cloning locally and pushing it to
+    another repository. We use forks when we want to customize and share someone's repository.
+    Clones copy a repository from remote/local to local. We use clones when we copy remote
+    repository to local environment befor start editing.
+    Braches are alias of commit. We use branches when we manage multiple versions of code,
+    such as stable and experimental version.
