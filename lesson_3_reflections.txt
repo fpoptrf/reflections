@@ -28,3 +28,10 @@ stored locally?
     with other people for the same code safely. If someone updated remote repository while
     we are updating code, fetching remote will cause conlfict, but we can safely resolve
     this by using 'git merge' and 'git push'.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    I can collaborate using cloud storage, like Google Drive or Dropbox. It is easy to
+    share cold copy with someone. However, it is hard to edit or discuss about some lines
+    of code with someone.
