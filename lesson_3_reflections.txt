@@ -35,3 +35,13 @@ and what would be harder?
     I can collaborate using cloud storage, like Google Drive or Dropbox. It is easy to
     share cold copy with someone. However, it is hard to edit or discuss about some lines
     of code with someone.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    When I work on new feature or fixing code, I want to make changes in a separate
+    branch rather than directly in master.
+    If I create new branch and work on it, I can push it to GitHub and make a pull request
+    for other pepole are able to check my code.
+    On the other hand, we can make change in master directory, if we want to keep commit
+    history simple.
